@@ -36,7 +36,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<start-class>com.thoughtmechanix.organization.Application</start-class>
 		<docker.image.name>gfioritti/sbms-orgservice-new</docker.image.name>
-		<docker.image.tag>chapter6</docker.image.tag>
+		<docker.image.tag>chapter7</docker.image.tag>
 	</properties>
 
 	<dependencies>
